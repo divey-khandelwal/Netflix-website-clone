@@ -11,5 +11,5 @@ This project focuses solely on the front-end aspects and does not include any ba
 **Basic CSS Animations:** Subtle animations are added to form elements to improve user engagement.
 
 ## Technologies Used
-**HTML:** Used for the structure and layout of the page. Elements like forms, buttons, and input fields are built using semantic HTML.
+**HTML:** Used for the structure and layout of the page. Elements like forms, buttons, and input fields are built using semantic HTML.<br>
 **CSS:** Used for styling the page. CSS Flexbox is utilized to create a responsive and modern layout. Custom fonts and colors are applied to resemble the official Netflix branding.
